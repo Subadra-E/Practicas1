@@ -24,10 +24,10 @@ Se utilizó para encontrar la matriz densidad reducida del subsistema A.
 Calcula la pureza para el estado del subsistema A.
 
 Algoritmo Utilizado:
-*Tomar al vector estado que pertenece al subespacio generado por v1 y v2
-*Construir la matriz densidad 
-*Utilizar la función TraceSystem para calcular la matriz densidad reducida del subesistema A
-*Calcular la traza del cuadrado de la matriz reducida
+*Tomar al vector estado que pertenece al subespacio generado por v1 y v2.
+*Construir la matriz densidad.
+*Utilizar la función TraceSystem para calcular la matriz densidad reducida del subesistema A.
+*Calcular la traza del cuadrado de la matriz reducida.
 
 **PuntosendondelaPurezaesMaxima** 
 Encuentra los velores de theta y phi para los cuales la pureza del subsistema A es máxima
