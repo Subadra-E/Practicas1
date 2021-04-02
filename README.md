@@ -11,7 +11,7 @@ Consideraciones Previas:
 
 Funciones Utilizadas:
 
-*******TraceSystem**********    
+**TraceSystem**   
 Creada por
 Mark S. Tame
 School of Mathematics and Physics, Queen's University, Belfast.  UK.
@@ -19,8 +19,9 @@ School of Mathematics and Physics, Queen's University, Belfast.  UK.
 Esta función calcula trazas parciales sobre cualquiera de los subsistemas. 
 Se utilizó para encontrar la matriz densidad reducida del subsistema A.
 
-*******PurezadelsubsistemaAapartirdevectoresestado**** 
-Calcula la pureza para el estado del subsistema A
+**PurezadelsubsistemaAapartirdevectoresestado**
+
+Calcula la pureza para el estado del subsistema A.
 
 Algoritmo Utilizado:
 *Tomar al vector estado que pertenece al subespacio generado por v1 y v2
@@ -28,7 +29,7 @@ Algoritmo Utilizado:
 *Utilizar la función TraceSystem para calcular la matriz densidad reducida del subesistema A
 *Calcular la traza del cuadrado de la matriz reducida
 
-*******PuntosendondelaPurezaesMaxima************ 
+**PuntosendondelaPurezaesMaxima** 
 Encuentra los velores de theta y phi para los cuales la pureza del subsistema A es máxima
 
 Algoritmo Utilizado:
