@@ -34,12 +34,15 @@ Algoritmo Utilizado:
 *Calcular la traza del cuadrado de la matriz reducida.
 
 **PuntosendondelaPurezaesMaxima** 
-Encuentra los velores de theta y phi para los cuales la pureza del subsistema A es máxima
+
+Encuentra los velores de theta y phi para los cuales la pureza del subsistema A es máxima.
 
 Algoritmo Utilizado:
 
 *Encontrar puntos críticos:
+
 -Función "Sol"
+
 con la ayuda de FindRoot se encuentran los valores de theta, phi en donde la derivada es cero
 tomando distintos puntos de partida
 
@@ -47,15 +50,18 @@ tomando distintos puntos de partida
 los puntos donde la derivada es cero (los valores encontrados se almacenan en la Tabla "data")
 
 *Evaluar si son puntos máximos:
+
 -Con ayuda de las funciones "secdtheta", "secdphi", "secdthetaphi" y "delta" (las cuales calculan
 las segundas derivadas y el determinante de la matriz Jacobiana), se evalúan las condiciones para
 saber si los valores de theta y phi encontrados devuelven un máximo (los pares seleccionados, se 
 almacenan en la tabla "m")
 
 *Eliminar Puntos valores repetidos:
+
 -Con ayuda de "DeleteDuplicates", se eliminan los puntos que tengan una diferencia menor a 10^-13 
 (se almacenan en la lista "max")
 
 *Eliminar Puntos en donde aparezacan "Falsos" Máximos:
+
 -Como segundo filtro, se eliminan los valores de theta y phi que devuelven un aparente valor máximo 
 en la frontera
