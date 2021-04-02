@@ -19,7 +19,7 @@ School of Mathematics and Physics, Queen's University, Belfast.  UK.
 Esta función calcula trazas parciales sobre cualquiera de los subsistemas. 
 Se utilizó para encontrar la matriz densidad reducida del subsistema A.
 
-********PurezadelsubsistemaAapartirdevectoresestado********** 
+**PurezadelsubsistemaAapartirdevectoresestado**
 Calcula la pureza para el estado del subsistema A
 
 Algoritmo Utilizado:
