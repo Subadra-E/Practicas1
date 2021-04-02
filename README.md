@@ -11,7 +11,7 @@ Consideraciones Previas:
 
 Funciones Utilizadas:
 
-*TraceSystem*
+******************TraceSystem**********\\
 Creada por
 Mark S. Tame
 School of Mathematics and Physics, Queen's University, Belfast.  UK.
