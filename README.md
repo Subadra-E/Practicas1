@@ -19,7 +19,7 @@ School of Mathematics and Physics, Queen's University, Belfast.  UK.
 Esta función calcula trazas parciales sobre cualquiera de los subsistemas. 
 Se utilizó para encontrar la matriz densidad reducida del subsistema A.
 
-***************PurezadelsubsistemaAapartirdevectoresestado*************
+*******PurezadelsubsistemaAapartirdevectoresestado***** 
 Calcula la pureza para el estado del subsistema A
 
 Algoritmo Utilizado:
@@ -28,7 +28,7 @@ Algoritmo Utilizado:
 *Utilizar la función TraceSystem para calcular la matriz densidad reducida del subesistema A
 *Calcular la traza del cuadrado de la matriz reducida
 
-***************PuntosendondelaPurezaesMaxima*************
+*******PuntosendondelaPurezaesMaxima************
 Encuentra los velores de theta y phi para los cuales la pureza del subsistema A es máxima
 
 Algoritmo Utilizado:
