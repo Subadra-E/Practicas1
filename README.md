@@ -7,7 +7,7 @@ Consideraciones Previas:
 
 * v1, v2 son vectores estado que pertenecen al espacio del sistema completo
 
-* El vector de estado generado por v1 y v2 es de la forma psi = cos(theta)*v1 + e^(i*phi)*sin(theta)*v2
+* El vector de estado generado por v1 y v2 es de la forma psi = cos(theta)*v1 + e^(i*\phi)*sin(theta)*v2
 
 Funciones Utilizadas:
 
