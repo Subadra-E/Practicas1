@@ -28,7 +28,7 @@ Algoritmo Utilizado:
 *Utilizar la función TraceSystem para calcular la matriz densidad reducida del subesistema A
 *Calcular la traza del cuadrado de la matriz reducida
 
-*******PuntosendondelaPurezaesMaxima************
+*******PuntosendondelaPurezaesMaxima************ 
 Encuentra los velores de theta y phi para los cuales la pureza del subsistema A es máxima
 
 Algoritmo Utilizado:
